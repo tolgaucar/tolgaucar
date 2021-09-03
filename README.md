@@ -1,16 +1,14 @@
-### Hi there 👋
+[EN]
 
-<!--
-**tolgaucar/tolgaucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Tolga
 
-Here are some ideas to get you started:
+#### I'm a Full-Stack Developer in Turkey 🇹🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👨🏻‍💻 About Me
+- ⚙️ I use daily: `.php`, `.css`, `.js`, `.html`, `.psd`, `.py`
+- 🌍 Exploring new technologies about web development.
+- 🌱 Learning all about **Open Source**
+- 💼 Working as a freelancer and an intern.
+- ⚡️ Fun fact: I'm a huge fan of Mr.Robot.
+- 💬 Contact me about web development, design.
