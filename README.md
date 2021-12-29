@@ -9,7 +9,6 @@
 - 🌍 Exploring new technologies about web development.
 - 🌱 Learning all about **Web Development**
 - 💼 Working as a freelancer.
-- ⚡️ Fun fact: I'm a huge fan of Mr.Robot.
 - 💬 Contact me about web development, design.
 
 [TR]
@@ -23,5 +22,4 @@
 - 🌍 Yeni web teknolojilerini keşfediyorum.
 - 🌱 Web Teknolojileri hakkındaki her şeyi öğreniyorum.
 - 💼 Freelancer olarak çalışıyorum.
-- ⚡️ Mr.Robot dizisini severim.
 - 💬 Web yazılımları ve dizayn konusunda bana ulaşabilirsiniz!
