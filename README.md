@@ -1,25 +1,12 @@
-[EN]
+![image (7)](https://github.com/user-attachments/assets/b6c88062-4ebe-4777-a83c-3ccff8e95143)
 
-### Hi there 👋 I'm Tolga
 
-#### I'm a Full-Stack Developer in Turkey 🇹🇷
+# About
 
-### 👨🏻‍💻 About Me
-- ⚙️ I use daily: `.php`, `.css`, `.js`, `.html`, `.psd`, `.py`
-- 🌍 Exploring new technologies about web development.
-- 🌱 Learning all about **Web Development**
-- 💼 Working as a freelancer.
-- 💬 Contact me about web development, design.
+Tolga is a software engineer from Isparta, Türkiye with a B.Sc. in Computer Engineering and Business Administration.
 
-[TR]
-
-### Merhaba 👋 Ben Tolga.
-
-#### Türkiye'de yaşayan bir Full Stack Web Developer'ım 🇹🇷
-
-### 👨🏻‍💻 Hakkımda
-- ⚙️ Günlük olarak şu teknolojileri kullanmaktayım: `.php`, `.css`, `.js`, `.html`, `.psd`, `.py`
-- 🌍 Yeni web teknolojilerini keşfediyorum.
-- 🌱 Web Teknolojileri hakkındaki her şeyi öğreniyorum.
-- 💼 Freelancer olarak çalışıyorum.
-- 💬 Web yazılımları ve dizayn konusunda bana ulaşabilirsiniz!
+## Links
+- Email: tolga@tolgaucar.com.tr  
+- GitHub: https://github.com/tolgaucar  
+- LinkedIn: https://linkedin.com/in/tolgauc  
+- Medium: https://medium.com/@tolgauc
